@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Patterns/8.AbstractFactory/8.AbstractFactory.unity
+  isLoaded: 1
+  isActive: 1
