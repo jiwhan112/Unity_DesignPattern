@@ -83,6 +83,9 @@
   <ItemGroup>
     <Compile Include="Assets\Patterns\1.Strategy\2.Script\GameCharactor.cs" />
     <Compile Include="Assets\Patterns\1.Strategy\2.Script\IWeapon.cs" />
+    <Compile Include="Assets\Patterns\10.Composite\2.Script\Component.cs" />
+    <Compile Include="Assets\Patterns\10.Composite\2.Script\File.cs" />
+    <Compile Include="Assets\Patterns\10.Composite\2.Script\Main_composite.cs" />
     <Compile Include="Assets\Patterns\2.Adapter\2.Script\Adapter_Test.cs" />
     <Compile Include="Assets\Patterns\2.Adapter\2.Script\IMathAdapter.cs" />
     <Compile Include="Assets\Patterns\2.Adapter\2.Script\MyMath.cs" />
