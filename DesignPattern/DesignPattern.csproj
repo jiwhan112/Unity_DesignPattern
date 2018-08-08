@@ -86,6 +86,12 @@
     <Compile Include="Assets\Patterns\10.Composite\2.Script\Component.cs" />
     <Compile Include="Assets\Patterns\10.Composite\2.Script\File.cs" />
     <Compile Include="Assets\Patterns\10.Composite\2.Script\Main_composite.cs" />
+    <Compile Include="Assets\Patterns\11.Decorator\2.Script\IBeverage.cs" />
+    <Compile Include="Assets\Patterns\11.Decorator\2.Script\Main_Decorator.cs" />
+    <Compile Include="Assets\Patterns\12.Visitor\2.Script\IVisitor.cs" />
+    <Compile Include="Assets\Patterns\12.Visitor\2.Script\Mian_Visitor.cs" />
+    <Compile Include="Assets\Patterns\13.ChainOfResposibility\2.Script\IChain.cs" />
+    <Compile Include="Assets\Patterns\13.ChainOfResposibility\2.Script\Main_Chain.cs" />
     <Compile Include="Assets\Patterns\2.Adapter\2.Script\Adapter_Test.cs" />
     <Compile Include="Assets\Patterns\2.Adapter\2.Script\IMathAdapter.cs" />
     <Compile Include="Assets\Patterns\2.Adapter\2.Script\MyMath.cs" />

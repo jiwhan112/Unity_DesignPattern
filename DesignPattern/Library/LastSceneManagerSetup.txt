@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Patterns/11.Decorator/11.Decorator.unity
+- path: Assets/Patterns/13.ChainOfResposibility/13.ChainOfResposibility.unity
   isLoaded: 1
   isActive: 1
