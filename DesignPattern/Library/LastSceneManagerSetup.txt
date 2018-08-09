@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Patterns/13.ChainOfResposibility/13.ChainOfResposibility.unity
+- path: Assets/Patterns/14.Observer/14.Observer.unity
   isLoaded: 1
   isActive: 1
