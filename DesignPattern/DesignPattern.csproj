@@ -82,6 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Patterns\1.Delegate\2.Script\Delegate_Test.cs" />
+    <Compile Include="Assets\Patterns\1.Exception\2.Script\Exception.cs" />
     <Compile Include="Assets\Patterns\1.Strategy\2.Script\GameCharactor.cs" />
     <Compile Include="Assets\Patterns\1.Strategy\2.Script\IWeapon.cs" />
     <Compile Include="Assets\Patterns\10.Composite\2.Script\Component.cs" />
@@ -95,6 +96,8 @@
     <Compile Include="Assets\Patterns\13.ChainOfResposibility\2.Script\Main_Chain.cs" />
     <Compile Include="Assets\Patterns\14.Observer\2.Script\IObserver.cs" />
     <Compile Include="Assets\Patterns\14.Observer\2.Script\Main_Observer.cs" />
+    <Compile Include="Assets\Patterns\15. Mediator\2.Script\IMediator.cs" />
+    <Compile Include="Assets\Patterns\15. Mediator\2.Script\Main_Mediator.cs" />
     <Compile Include="Assets\Patterns\2.Adapter\2.Script\Adapter_Test.cs" />
     <Compile Include="Assets\Patterns\2.Adapter\2.Script\IMathAdapter.cs" />
     <Compile Include="Assets\Patterns\2.Adapter\2.Script\MyMath.cs" />

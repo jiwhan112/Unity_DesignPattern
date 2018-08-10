@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Patterns/14.Observer/14.Observer.unity
+- path: Assets/Patterns/15. Mediator/15. Mediator.unity
   isLoaded: 1
   isActive: 1
