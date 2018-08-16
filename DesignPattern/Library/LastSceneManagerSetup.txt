@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Patterns/15. Mediator/15. Mediator.unity
+- path: Assets/Patterns/20.Command/20.Command.unity
   isLoaded: 1
   isActive: 1
