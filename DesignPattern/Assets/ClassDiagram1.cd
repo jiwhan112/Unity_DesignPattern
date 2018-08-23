@@ -1,0 +1,794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Delegate_Test" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAAAAAAAAAIAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Delegate\2.Script\Delegate_Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exception" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAgAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Exception\2.Script\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameCharactor" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAACIAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Patterns\1.Strategy\2.Script\GameCharactor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AB_Weapon" Collapsed="true">
+    <Position X="8" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAACAAAAAAAIAAACACAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Patterns\1.Strategy\2.Script\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Knife" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAIAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Strategy\2.Script\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AX" Collapsed="true">
+    <Position X="8" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAIAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Strategy\2.Script\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ARROW" Collapsed="true">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Strategy\2.Script\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MELEEATTACK" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Strategy\2.Script\IWeapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DISATTACK" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Strategy\2.Script\IWeapon.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Component" Collapsed="true">
+    <Position X="6.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAQAAABAA=</HashCode>
+      <FileName>Assets\Patterns\10.Composite\2.Script\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Folder" Collapsed="true">
+    <Position X="5.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAQAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\10.Composite\2.Script\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File" Collapsed="true">
+    <Position X="7.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\10.Composite\2.Script\File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_composite" Collapsed="true">
+    <Position X="28.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAUAACAAACBAAAAAAAAAAAAEAAAACQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\10.Composite\2.Script\Main_composite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Base_Obj" Collapsed="true">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Patterns\11.Decorator\2.Script\IBeverage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Adding_Obj" Collapsed="true">
+    <Position X="1.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Patterns\11.Decorator\2.Script\IBeverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Milk" Collapsed="true">
+    <Position X="0.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Patterns\11.Decorator\2.Script\IBeverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Espresso" Collapsed="true">
+    <Position X="2.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAADAAAA=</HashCode>
+      <FileName>Assets\Patterns\11.Decorator\2.Script\IBeverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Decorator" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\11.Decorator\2.Script\Main_Decorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VisitorA" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Patterns\12.Visitor\2.Script\IVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VisitorB" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\12.Visitor\2.Script\IVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="VisitorableA" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAwABAAEAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\12.Visitor\2.Script\IVisitor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Mian_Visitor" Collapsed="true">
+    <Position X="23" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\12.Visitor\2.Script\Mian_Visitor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICalculator" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAACAAAAIAA=</HashCode>
+      <FileName>Assets\Patterns\13.ChainOfResposibility\2.Script\IChain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlusCalculator" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Patterns\13.ChainOfResposibility\2.Script\IChain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SubCalculator" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Patterns\13.ChainOfResposibility\2.Script\IChain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MutiCalculator" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Patterns\13.ChainOfResposibility\2.Script\IChain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DisCalculator" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Assets\Patterns\13.ChainOfResposibility\2.Script\IChain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Request" Collapsed="true">
+    <Position X="24.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAQAIIAEACAA=</HashCode>
+      <FileName>Assets\Patterns\13.ChainOfResposibility\2.Script\IChain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Chain" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\13.ChainOfResposibility\2.Script\Main_Chain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Subject" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Assets\Patterns\14.Observer\2.Script\IObserver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Oberver" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\14.Observer\2.Script\IObserver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Oberver2" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAQAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\14.Observer\2.Script\IObserver.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Main_Observer" Collapsed="true">
+    <Position X="24.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\14.Observer\2.Script\Main_Observer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mediator" Collapsed="true">
+    <Position X="13.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\15. Mediator\2.Script\IMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Colleague" Collapsed="true">
+    <Position X="0.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAgAAAAAAAAAAAAAAAoAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\15. Mediator\2.Script\IMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatMediator" Collapsed="true">
+    <Position X="13.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\15. Mediator\2.Script\IMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChatColleague" Collapsed="true">
+    <Position X="0.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\15. Mediator\2.Script\IMediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Mediator" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\15. Mediator\2.Script\Main_Mediator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Light" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAQACAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\16.State\2.Script\IState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LightState_ON" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAABAgEAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Patterns\16.State\2.Script\IState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="LightState_OFF" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAABAgEAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Patterns\16.State\2.Script\IState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Main_State" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\16.State\2.Script\Main_State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateController" Collapsed="true">
+    <Position X="10.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAAACAABAAAIAoAAAAAAAAAAABAAAIAAABAAAA=</HashCode>
+      <FileName>Assets\Patterns\16.State\2.Script\StateMachineParent\StateController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StateMachine" Collapsed="true">
+    <Position X="11.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAUAAAAAAAAAAAAAAAAAIAACAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\16.State\2.Script\StateMachineParent\StateMachine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Monster" Collapsed="true">
+    <Position X="24.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAAAAAAAAAAAgAAQQAAAAAAAQBAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\17.Memento\2.Script\IMemento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Memento" Collapsed="true">
+    <Position X="21.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\17.Memento\2.Script\IMemento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Memento" Collapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\17.Memento\2.Script\Main_Memento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flyweight" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\18.Flyweight\2.Script\IFlyweight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlyweightFactory" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAI=</HashCode>
+      <FileName>Assets\Patterns\18.Flyweight\2.Script\IFlyweight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Flyweight" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\18.Flyweight\2.Script\Main_Flyweight.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proxy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIACQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\19.Proxy\2.Script\IProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="RealSubject" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\19.Proxy\2.Script\IProxy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Main_Proxy" Collapsed="true">
+    <Position X="28.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\19.Proxy\2.Script\Main_Proxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adapter_Float" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAgAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\2.Adapter\2.Script\Adapter_Test.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MyMath" Collapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\2.Adapter\2.Script\MyMath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StringPrintCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\20.Command\2.Script\ICommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Main_Comman" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\20.Command\2.Script\Main_Comman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EventSystemClient" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAACCAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\3.TemplateMethod\2.Script\EventSystemClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEvent" Collapsed="true">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAACAIAAAAAEAAAAAAAACAA=</HashCode>
+      <FileName>Assets\Patterns\3.TemplateMethod\2.Script\IGameEvent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Aqua_Fishing" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\3.TemplateMethod\2.Script\IGameEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aqua_Treasure" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\3.TemplateMethod\2.Script\IGameEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Aqua_Show" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\3.TemplateMethod\2.Script\IGameEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ITemplate_EventSystem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAABAQAQRAAAACAEAAAEAABAAABBAAA=</HashCode>
+      <FileName>Assets\Patterns\3.TemplateMethod\2.Script\ITemplate_EventSystem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Factory_Item" Collapsed="true">
+    <Position X="1.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEIAAAAAAAAAAAAAgEAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Patterns\4.FactoryMethod\2.Script\IFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Fatctory_HpCreate" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Patterns\4.FactoryMethod\2.Script\IFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fatctory_MpCreate" Collapsed="true">
+    <Position X="2.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAgAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Patterns\4.FactoryMethod\2.Script\IFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Item" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\4.FactoryMethod\2.Script\IItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HPItem" Collapsed="true">
+    <Position X="10.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\4.FactoryMethod\2.Script\IItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MPItem" Collapsed="true">
+    <Position X="12.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\4.FactoryMethod\2.Script\IItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Factory" Collapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\4.FactoryMethod\2.Script\Main_Factory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Singleton" Collapsed="true">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\5.Singleton\2.Script\Main_Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MySingleton" Collapsed="true">
+    <Position X="28.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAAAAAAAAAAAAAABAAAABAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Patterns\5.Singleton\2.Script\MySingleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Singleton&lt;T&gt;" Collapsed="true">
+    <Position X="10.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAFABAAAAAAAAAgAABAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Patterns\5.Singleton\2.Script\Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_Prototype" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\6.Prototype\2.Script\Main_Prototype.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Object_Cube" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAgAAAAAAAACAAAAAAABiAAAgAAA=</HashCode>
+      <FileName>Assets\Patterns\6.Prototype\2.Script\Object_Cube.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Builder" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\7.Bulder\2.Script\Builder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Computer" Collapsed="true">
+    <Position X="6.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgIAAgACAAkAAAAIAAAAAAAAAAAAIIAAACAAAA=</HashCode>
+      <FileName>Assets\Patterns\7.Bulder\2.Script\IBluePrint.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ComputerFactory" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAEAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Patterns\7.Bulder\2.Script\IBluePrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerBuilder" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAACgAAAAAAAAAAAAAAAEAgAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\7.Bulder\2.Script\IBluePrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LGComputer" Collapsed="true">
+    <Position X="5.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\7.Bulder\2.Script\IBluePrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MacComputer" Collapsed="true">
+    <Position X="7.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\7.Bulder\2.Script\IBluePrint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EastChest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="EastHead" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="28.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WestChest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WestHead" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Factory_EastInsect" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Factory_WestInsect" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Insect" Collapsed="true">
+    <Position X="28.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAgAAEQAAAAAAAAAAAAAAAAAAAAAAAAIAACAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Main_AbstractFactory" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Main_AbstractFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="BufType" Collapsed="true">
+    <Position X="16" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAJAA=</HashCode>
+      <FileName>Assets\Patterns\17.Memento\2.Script\IMemento.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="IATTACKWAY" Collapsed="true">
+    <Position X="17.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Strategy\2.Script\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IBeverage" Collapsed="true">
+    <Position X="19.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Patterns\11.Decorator\2.Script\IBeverage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IVisitor" Collapsed="true">
+    <Position X="19.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\12.Visitor\2.Script\IVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IVisitable" Collapsed="true">
+    <Position X="17.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\12.Visitor\2.Script\IVisitor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IOnclickListener" Collapsed="true">
+    <Position X="26.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAABACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\14.Observer\2.Script\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IOberver" Collapsed="true">
+    <Position X="24.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\14.Observer\2.Script\IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ILIght" Collapsed="true">
+    <Position X="23" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\16.State\2.Script\IState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ISubjectByProxy" Collapsed="true">
+    <Position X="16" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\19.Proxy\2.Script\IProxy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IAdapter_Math_Float" Collapsed="true">
+    <Position X="16" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAgAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\2.Adapter\2.Script\IMathAdapter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ICommand" Collapsed="true">
+    <Position X="24.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\20.Command\2.Script\ICommand.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IGameEvent" Collapsed="true">
+    <Position X="17.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAACAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\3.TemplateMethod\2.Script\IGameEvent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IEventCheckSystem" Collapsed="true">
+    <Position X="26.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAQAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\3.TemplateMethod\2.Script\ITemplate_EventSystem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IFatoryMethod_ITEM" Collapsed="true">
+    <Position X="16" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEIAAAAAAAAAAAAAgEAAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Patterns\4.FactoryMethod\2.Script\IFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IITEM" Collapsed="true">
+    <Position X="21.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\4.FactoryMethod\2.Script\IItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IProtoType" Collapsed="true">
+    <Position X="28.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\6.Prototype\2.Script\IPrototype.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IBuilder_BluePrint" Collapsed="true">
+    <Position X="21.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAgAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\7.Bulder\2.Script\IBluePrint.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IChest" Collapsed="true">
+    <Position X="23" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IHead" Collapsed="true">
+    <Position X="19.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IFactory_Insect" Collapsed="true">
+    <Position X="28.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\8.AbstractFactory\2.Script\Abstract.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

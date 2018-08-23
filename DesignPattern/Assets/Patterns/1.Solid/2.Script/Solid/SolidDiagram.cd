@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="Main_Solid" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Main\Main_Solid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dog" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\ISP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Bird" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAQAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\ISP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Entity_Charactor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\LSP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Entity_MyMonster" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\LSP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Entity">
+    <Position X="6.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAEAAAAIAAAAACAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\LSP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Charactor">
+    <Position X="5.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\LSP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyMonster">
+    <Position X="7.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\LSP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Beverage">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAcA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\OCP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Beverage_Spec">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAEAAAEAhAAAAAAgAAAKAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\OCP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAYA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\OCP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coffee">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAYA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\OCP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Water_Spec">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAIAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\OCP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coffee_Spec">
+    <Position X="2.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAQAAAAAAAAEAAAAAAAAAAAAgAAAAAAgAAAIAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\OCP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Guitar" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAUA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\SRP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Guitar_Spec" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAABAAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\SRP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TradButtonModel.LAMP" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\DIP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TradButtonModel.Button_Trad" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAIAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\DIP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvertedButtonModel.Lamp" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\DIP.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="InvertedButtonModel.Button_Inver">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAIAIAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\DIP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvertedButtonModel.RoBotButton">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\DIP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IAnimal" Collapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\ISP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IBird" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\ISP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ICry" Collapsed="true">
+    <Position X="15.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\ISP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IEntity" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAAIA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\LSP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="InvertedButtonModel.IButtonClient" Collapsed="true">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\DIP.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="GuitarType" Collapsed="true">
+    <Position X="10.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAEAAAA=</HashCode>
+      <FileName>Assets\Patterns\1.Solid\2.Script\Solid\SRP.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>

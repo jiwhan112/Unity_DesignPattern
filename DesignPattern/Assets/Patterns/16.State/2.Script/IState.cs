@@ -5,7 +5,7 @@ using UnityEngine;
 // Light의 On Off 상태를 인터페이스로 구현
 // 각 상태는 메모리 낭비를 최소화 하기 위해 객체를 새로 생성하지 않고 싱글턴으로 운용함
 
-public interface ILightState
+public interface ILIght
 {
     void Enter();
     void Update();
@@ -13,7 +13,7 @@ public interface ILightState
 }
 public class Light
 {
-    ILightState CurrentState;
+    ILIght CurrentState;
 
     public void Update()
     {
@@ -37,7 +37,7 @@ public class Light
    
 
 }
-public class LightState_ON : ILightState
+public class LightState_ON : ILIght
 {
   
     private LightState_ON()
@@ -72,7 +72,7 @@ public class LightState_ON : ILightState
 
     }
 }
-public class LightState_OFF : ILightState
+public class LightState_OFF : ILIght
 {
     public void Enter()
     {

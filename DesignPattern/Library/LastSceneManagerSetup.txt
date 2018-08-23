@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Patterns/20.Command/20.Command.unity
+- path: Assets/Patterns/1.Solid/0.Empty.unity
   isLoaded: 1
   isActive: 1
